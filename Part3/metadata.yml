@@ -1,0 +1,18 @@
+---
+:id: 292157927
+:submitters:
+- :name: Yipeng Wang
+  :email: wang.yipen@northeastern.edu
+- :name: Yuyang Du
+  :email: du.yuy@northeastern.edu
+- :name: Karan Mor
+  :email: mor.k@northeastern.edu
+- :name: Ruoxi Wang
+  :email: wang.ruoxi2@northeastern.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-11-23 04:46:30.828099000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-11-22 20:46:30.828099000 Z
+:status: processed
+:score: 5.0
